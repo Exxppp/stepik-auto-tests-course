@@ -1,2 +1,3 @@
 # stepik-auto-tests-course
-домашние задания по selenium
+Нектоторые домашние задания по selenium 
+https://stepik.org/course/575
